@@ -4,6 +4,18 @@
 144.6.227.123	slave2
 144.6.227.128	slave3
 144.6.227.131	slave4
+144.6.227.140	slave5
+144.6.227.143	slave6
+144.6.227.145	slave7
+144.6.227.151	slave8
+144.6.227.152	slave9
+144.6.227.154	slave10
+144.6.227.156	slave11
+144.6.227.158	slave12
+144.6.227.16	slave13
+144.6.227.160	slave14
+144.6.227.162	slave15
+144.6.227.163	slave16
 
 # The following lines are desirable for IPv6 capable hosts
 ::1	localhost	ip6-localhost	ip6-loopback
