@@ -1,0 +1,29 @@
+#127.0.0.1	localhost
+144.6.226.77	masterx
+144.6.226.78	slavex1
+144.6.226.79	slavex2
+144.6.226.80	slavex3
+144.6.227.111	slavex4
+144.6.226.86	slavex5
+144.6.226.88	slavex6
+144.6.226.90	slavex7
+144.6.226.91	slavex8
+144.6.226.93	slavex9
+144.6.226.95	slavex10
+144.6.226.97	slavex11
+144.6.227.0	slavex12
+144.6.227.103	slavex13
+144.6.227.105	slavex14
+144.6.227.11	slavex15
+144.6.227.107	slavex16
+
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1	localhost	ip6-localhost	ip6-loopback
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+#127.0.1.1	ubuntu
+#127.0.1.1	master.novalocal	master
+#127.0.1.1	masterx.novalocal	masterx
+
